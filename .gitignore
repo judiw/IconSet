@@ -1,0 +1,13 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
